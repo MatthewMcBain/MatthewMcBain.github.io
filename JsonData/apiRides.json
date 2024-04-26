@@ -1,37 +1,51 @@
 [
     {
-        "rideName":"Falcor",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/falcor.jpg",
+        "rideName":"Spooks Ville",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
         "rideAge":"8",
         "rideType":"dog",
-        "rideBreed":"Cross Breed Collie"
+        "minHeight":"130cm"
     },
     {
-        "rideName":"Jemima",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/jemima.jpg",
+        "rideName":"Rapido Racer",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/rapido_racer.jpg",
         "rideAge":"6",
         "rideType":"dog",
-        "rideBreed":"Cross Breed Sproodle"
+        "minHeight":"140cm"
     },
     {
-        "rideName":"Garnet",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/garnet.jpg",
+        "rideName":"Bees",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/bees.jpg",
         "rideAge":"15",
         "rideType":"cat",
-        "rideBreed":"tabby moggy"
+        "minHeight":"140cm"
     },
     {
-        "rideName":"Tabby",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/tabby.jpg",
+        "rideName":"Log Flume",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/log_flume.jpg",
         "rideAge":"11",
         "rideType":"cat",
-        "rideBreed":"tabby moggy"
+        "minHeight":"120cm"
     },
     {
-        "rideName":"Moonlight",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/moonlight.jpg",
+        "rideName":"Ride the Rapids",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/ride_the_rapids.jpg",
         "rideAge":"11",
         "rideType":"cat",
-        "rideBreed":"Black and white moggy"
+        "minHeight":"110cm"
+    },
+    {
+        "rideName":"The teacups",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
+        "rideAge":"11",
+        "rideType":"cat",
+        "minHeight":"90cm"
+    },
+    {
+        "rideName":"Carousel",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/carousel.jpg",
+        "rideAge":"8",
+        "rideType":"dog",
+        "minHeight":"130cm"
     }
 ]
