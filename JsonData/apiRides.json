@@ -1,37 +1,37 @@
 [
     {
-        "animalName":"Falcor",
-        "animalPic":"https://matthewmcbain.github.io/JsonData/images/falcor.jpg",
-        "animalAge":"8",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Collie"
+        "rideName":"Falcor",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/falcor.jpg",
+        "rideAge":"8",
+        "rideType":"dog",
+        "rideBreed":"Cross Breed Collie"
     },
     {
-        "animalName":"Jemima",
-        "animalPic":"https://matthewmcbain.github.io/JsonData/images/jemima.jpg",
-        "animalAge":"6",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Sproodle"
+        "rideName":"Jemima",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/jemima.jpg",
+        "rideAge":"6",
+        "rideType":"dog",
+        "rideBreed":"Cross Breed Sproodle"
     },
     {
-        "animalName":"Garnet",
-        "animalPic":"https://matthewmcbain.github.io/JsonData/images/garnet.jpg",
-        "animalAge":"15",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "rideName":"Garnet",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/garnet.jpg",
+        "rideAge":"15",
+        "rideType":"cat",
+        "rideBreed":"tabby moggy"
     },
     {
-        "animalName":"Tabby",
-        "animalPic":"https://matthewmcbain.github.io/JsonData/images/tabby.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "rideName":"Tabby",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/tabby.jpg",
+        "rideAge":"11",
+        "rideType":"cat",
+        "rideBreed":"tabby moggy"
     },
     {
-        "animalName":"Moonlight",
-        "animalPic":"https://matthewmcbain.github.io/JsonData/images/moonlight.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
+        "rideName":"Moonlight",
+        "ridePic":"https://matthewmcbain.github.io/JsonData/images/moonlight.jpg",
+        "rideAge":"11",
+        "rideType":"cat",
+        "rideBreed":"Black and white moggy"
     }
 ]
