@@ -2,50 +2,43 @@
     {
         "rideName":"Spooks Ville",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
-        "rideAge":"8",
-        "rideType":"dog",
+        "rideAge":"1 year",
         "minHeight":"130cm"
     },
     {
         "rideName":"Rapido Racer",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/rapido_racer.jpg",
-        "rideAge":"6",
-        "rideType":"dog",
+        "rideAge":"3 years",
         "minHeight":"140cm"
     },
     {
         "rideName":"Bees",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/bees.jpg",
-        "rideAge":"15",
-        "rideType":"cat",
+        "rideAge":"2 years",
         "minHeight":"140cm"
     },
     {
         "rideName":"Log Flume",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/log_flume.jpg",
-        "rideAge":"11",
-        "rideType":"cat",
+        "rideAge":"2 years",
         "minHeight":"120cm"
     },
     {
         "rideName":"Ride the Rapids",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/ride_the_rapids.jpg",
-        "rideAge":"11",
-        "rideType":"cat",
+        "rideAge":"3 years",
         "minHeight":"110cm"
     },
     {
         "rideName":"The teacups",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
-        "rideAge":"11",
-        "rideType":"cat",
+        "rideAge":"5 years",
         "minHeight":"90cm"
     },
     {
         "rideName":"Carousel",
         "ridePic":"https://matthewmcbain.github.io/JsonData/images/carousel.jpg",
-        "rideAge":"8",
-        "rideType":"dog",
+        "rideAge":"5 years",
         "minHeight":"130cm"
     }
 ]
