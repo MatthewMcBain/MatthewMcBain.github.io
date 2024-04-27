@@ -12,7 +12,7 @@
             "id": "rapido_racer",
             "image": "https://matthewmcbain.github.io/JsonData/images/rapido_racer.jpg",
             "lat": 52.663,
-            "lng": -2.21,
+            "lng": -2.226,
             "name": "Rapido Racer",
             "region": "europe"
         },
@@ -43,8 +43,8 @@
         {
             "id": "the_teacups",
             "image": "https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
-            "lat": 52.66,
-            "lng": -2.228,
+            "lat": 52.654,
+            "lng": -2.221,
             "name": "The teacups",
             "region": "europe"
         },
