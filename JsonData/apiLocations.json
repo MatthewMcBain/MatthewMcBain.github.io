@@ -6,7 +6,6 @@
             "lat": 52.657786,
             "lng": -2.22639,
             "name": "Carousel",
-            "phone": "",
             "region": "europe"
         },
         {
@@ -15,7 +14,6 @@
             "lat": 56.172249,
             "lng": 10.187372,
             "name": "Aarhus",
-            "phone": "",
             "region": "europe"
         },
         {
@@ -24,7 +22,6 @@
             "lat": 52.337801,
             "lng": 4.872066,
             "name": "Amsterdam",
-            "phone": "",
             "region": "europe"
         },
         {
@@ -33,7 +30,6 @@
             "lat": 42.3063848,
             "lng": -83.7140833,
             "name": "Ann Arbor",
-            "phone": "+1 734-332-6500",
             "region": "north-america"
         },
         {
@@ -42,7 +38,6 @@
             "lat": 38.03902,
             "lng": 23.804595,
             "name": "Athens",
-            "phone": "",
             "region": "europe"
         },
         {
@@ -51,7 +46,6 @@
             "lat": 33.781827,
             "lng": -84.387301,
             "name": "Atlanta",
-            "phone": "+1 404-487-9000",
             "region": "north-america"
         },
         {
@@ -60,7 +54,6 @@
             "lat": 30.266035,
             "lng": -97.749237,
             "name": "Austin",
-            "phone": "+1 512-343-5283",
             "region": "north-america"
         },
         {
@@ -69,7 +62,6 @@
             "lat": 12.99332,
             "lng": 77.660176,
             "name": "Bangalore",
-            "phone": "+91-80-67218000",
             "region": "asia-pacific"
         },
         {
@@ -78,7 +70,6 @@
             "lat": 13.742866,
             "lng": 100.547983,
             "name": "Bangkok",
-            "phone": "",
             "region": "asia-pacific"
         },
         {
@@ -87,7 +78,6 @@
             "lat": 39.9848878,
             "lng": 116.3265708,
             "name": "Beijing",
-            "phone": "+86-10-62503000",
             "region": "asia-pacific"
         },
         {
@@ -96,7 +86,6 @@
             "lat": -19.920225,
             "lng": -43.920845,
             "name": "Belo Horizonte",
-            "phone": "+55-31-2128-6800",
             "region": "latin-america"
         },
         {
@@ -105,7 +94,6 @@
             "lat": 52.5231079,
             "lng": 13.39203120000002,
             "name": "Berlin",
-            "phone": "+49 30 303986300",
             "region": "europe"
         },
         {
@@ -114,7 +102,6 @@
             "lat": 4.678267,
             "lng": -74.046901,
             "name": "Bogota",
-            "phone": "+57 (1) 5939400",
             "region": "latin-america"
         },
         {
@@ -123,7 +110,6 @@
             "lat": 40.021693,
             "lng": -105.260139,
             "name": "Boulder",
-            "phone": "+1 303-245-0086",
             "region": "north-america"
         }
     ],
