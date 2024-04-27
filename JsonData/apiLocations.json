@@ -3,7 +3,7 @@
         {
             "id": "spooks_ville",
             "image": "https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
-            "lat": 52.68,
+            "lat": 52.653,
             "lng": -2.22639,
             "name": "Spooks Ville",
             "region": "europe"
@@ -35,16 +35,16 @@
         {
             "id": "ride_the_rapids",
             "image": "https://matthewmcbain.github.io/JsonData/images/ride_the_rapids.jpg",
-            "lat": 52.66,
-            "lng": -2.24,
+            "lat": 52.675,
+            "lng": -2.232,
             "name": "Ride the Rapids",
             "region": "europe"
         },
         {
             "id": "the_teacups",
             "image": "https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
-            "lat": 52.675,
-            "lng": -2.232,
+            "lat": 52.66,
+            "lng": -2.24,
             "name": "The teacups",
             "region": "europe"
         },
