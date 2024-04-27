@@ -1,0 +1,177 @@
+{
+    "offices": [
+        {
+            "id": "carousel",
+            "image": "https://matthewmcbain.github.io/JsonData/images/carousel.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Carousel",
+            "phone": "",
+            "region": "europe"
+        },
+        {
+            "id": "aarhus",
+            "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+            "lat": 56.172249,
+            "lng": 10.187372,
+            "name": "Aarhus",
+            "phone": "",
+            "region": "europe"
+        },
+        {
+            "id": "amsterdam",
+            "image": "https://lh3.googleusercontent.com/gG1zKXcSmRyYWHwUn2Z0MITpdqwb52RAEp3uthG2J5Xl-4_Wz7_WmoM6T_TBg6Ut3L1eF-8XENO10sxVIFdQHilj8iRG29wROpSoug",
+            "lat": 52.337801,
+            "lng": 4.872066,
+            "name": "Amsterdam",
+            "phone": "",
+            "region": "europe"
+        },
+        {
+            "id": "ann-arbor",
+            "image": "https://lh3.googleusercontent.com/Iim0OVcAgg9vmXc5ADn9KvOQFplrMZ8hBTg2biiTtuWPy_r56cy4Byx1ROk6coGt7knQdmx_jO45VX1kiCJZ0QzEtS97AP_BYG4F2w",
+            "lat": 42.3063848,
+            "lng": -83.7140833,
+            "name": "Ann Arbor",
+            "phone": "+1 734-332-6500",
+            "region": "north-america"
+        },
+        {
+            "id": "athens",
+            "image": "https://lh3.googleusercontent.com/XroZnqewSrO6KuvXM5hDHtjUJzUcRQLZYfCKs4jP44dKezRvNx58uxaqUKS4fQ2eXzG2TpJNJ1X2xtfBe7Prl5hSG_xjPEF1xLtFodM",
+            "lat": 38.03902,
+            "lng": 23.804595,
+            "name": "Athens",
+            "phone": "",
+            "region": "europe"
+        },
+        {
+            "id": "atlanta",
+            "image": "https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+            "lat": 33.781827,
+            "lng": -84.387301,
+            "name": "Atlanta",
+            "phone": "+1 404-487-9000",
+            "region": "north-america"
+        },
+        {
+            "id": "austin",
+            "image": "https://lh3.googleusercontent.com/WFaJgWPdd7xPL7CQHizlqEzLDjT_GUAiWHIWUM0PiVSsv8q3Rjt9QgbyQazuQwYfN5qLORajv8eKSHlKwZo-M89T2Y12zFSxSIme08c",
+            "lat": 30.266035,
+            "lng": -97.749237,
+            "name": "Austin",
+            "phone": "+1 512-343-5283",
+            "region": "north-america"
+        },
+        {
+            "id": "bangalore",
+            "image": "https://lh3.googleusercontent.com/YDyQevoY-D0eZQ9sYHp8dQjpFF5JpLfLK-0OM-uJK1oNK3_LRnGJAM0uXi9qb9UigKnVIIXlIgidxhRlnaB_FPtUOqPzrsCSiFZyoQ",
+            "lat": 12.99332,
+            "lng": 77.660176,
+            "name": "Bangalore",
+            "phone": "+91-80-67218000",
+            "region": "asia-pacific"
+        },
+        {
+            "id": "bangkok",
+            "image": "https://lh3.googleusercontent.com/nh9uOUPj6iWjKZSHIrnkfGhIWGBb8thguRM5_ehCOkyF-qfwzYciDJFVRSvQ6QxlSA6eZUMkzgdW9zR0Gab2ZZPg8NlB7V_V3wB5",
+            "lat": 13.742866,
+            "lng": 100.547983,
+            "name": "Bangkok",
+            "phone": "",
+            "region": "asia-pacific"
+        },
+        {
+            "id": "beijing",
+            "image": "https://lh3.googleusercontent.com/v_tD3VvC8-dnhqSF9xhj5Hx7F_bb3-wieM19i-Ho2C3by6mt7-JpPc7KsYVHUZFqQl5ON3adVEV1N4OlzSvHLrr3sr4GtXErDbGC",
+            "lat": 39.9848878,
+            "lng": 116.3265708,
+            "name": "Beijing",
+            "phone": "+86-10-62503000",
+            "region": "asia-pacific"
+        },
+        {
+            "id": "belo-horizonte",
+            "image": "https://lh3.googleusercontent.com/f7F8gTi9GSgAZR3lv24I1yb-D0wRlDy0lQTcxCB4yJGtSgxrWdKoB3dX3J8SMrjYLwOSXquO3LuGFUE82QUjzVK9buHGNIRUPGpqM3E",
+            "lat": -19.920225,
+            "lng": -43.920845,
+            "name": "Belo Horizonte",
+            "phone": "+55-31-2128-6800",
+            "region": "latin-america"
+        },
+        {
+            "id": "berlin",
+            "image": "https://lh3.googleusercontent.com/XcPyEMiSlLdZJq7nh3orGy3UqjtUHdhxXiwn52ZY47wfEChfZNDO78zDy9H0tBeegogZBZpIE0Q9mdVBGN4aQ0M5vfgz8ZWMEe43Mg",
+            "lat": 52.5231079,
+            "lng": 13.39203120000002,
+            "name": "Berlin",
+            "phone": "+49 30 303986300",
+            "region": "europe"
+        },
+        {
+            "id": "bogota",
+            "image": "https://lh3.googleusercontent.com/_APoV1zAR0g5_pXVDlT2ovgNQfr3zvjOuj4HFHViiy2ahyjapJMXlYRE48qYMyFTWXJybbK4psz-fQ82QhMhO0keYJ27I8tNTHe_ww",
+            "lat": 4.678267,
+            "lng": -74.046901,
+            "name": "Bogota",
+            "phone": "+57 (1) 5939400",
+            "region": "latin-america"
+        },
+        {
+            "id": "boulder",
+            "image": "https://lh3.googleusercontent.com/lF9KBhOolmb958FFmMdLwFcedQAn1wEsVleBRrJQmyfhvD3u4lwCneR09ADJ9sG4tMBP5LDSLkn9bkbavzyqqql_0X7hj39dzl-n1w",
+            "lat": 40.021693,
+            "lng": -105.260139,
+            "name": "Boulder",
+            "phone": "+1 303-245-0086",
+            "region": "north-america"
+        }
+    ],
+    "regions": [
+        {
+            "coords": {
+                "lat": 2.9660291,
+                "lng": 1.3271339
+            },
+            "id": "africa-middle-east",
+            "name": "Africa & Middle East",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 0.0524811,
+                "lng": 127.6560787
+            },
+            "id": "asia-pacific",
+            "name": "Asia Pacific",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 46.1352815,
+                "lng": 7.4033438
+            },
+            "id": "europe",
+            "name": "Europe",
+            "zoom": 4.0
+        },
+        {
+            "coords": {
+                "lat": -17.5554497,
+                "lng": -99.2316195
+            },
+            "id": "latin-america",
+            "name": "Latin America",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 45.7128252,
+                "lng": -97.1547448
+            },
+            "id": "north-america",
+            "name": "North America",
+            "zoom": 4.0
+        }
+    ]
+}
