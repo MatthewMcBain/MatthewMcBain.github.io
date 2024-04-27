@@ -11,7 +11,7 @@
         {
             "id": "spooks_ville",
             "image": "https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
-            "lat": 52.657788,
+            "lat": 52.68,
             "lng": -2.22639,
             "name": "Spooks Ville",
             "region": "europe"
