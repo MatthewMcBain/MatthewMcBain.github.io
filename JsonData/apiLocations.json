@@ -55,6 +55,54 @@
             "lng": -2.22639,
             "name": "Carousel",
             "region": "europe"
+        },
+        {
+            "id": "human_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/human_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Human Garden",
+            "region": "europe"
+        },
+        {
+            "id": "japanese_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/japanese_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Japanese Garden",
+            "region": "europe"
+        },
+        {
+            "id": "nautical_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/nautical_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Nautical Garden",
+            "region": "europe"
+        },
+        {
+            "id": "spooky_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/spooky_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Spooky Garden",
+            "region": "europe"
+        },
+        {
+            "id": "tropical_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/tropical_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Tropical Garden",
+            "region": "europe"
+        },
+        {
+            "id": "tulip_garden",
+            "image": "https://matthewmcbain.github.io/JsonData/images/tulip_garden.jpg",
+            "lat": 52.657786,
+            "lng": -2.22639,
+            "name": "Tulip Garden",
+            "region": "europe"
         }
     ],
     "regions": [
