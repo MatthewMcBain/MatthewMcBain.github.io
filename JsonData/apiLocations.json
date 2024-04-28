@@ -91,7 +91,7 @@
         {
             "id": "tropical_garden",
             "image": "https://matthewmcbain.github.io/JsonData/images/tropical_garden.jpg",
-            "lat": 52.64,
+            "lat": 52.656,
             "lng": -2.221,
             "name": "Tropical Garden",
             "region": "europe"
@@ -99,7 +99,7 @@
         {
             "id": "tulip_garden",
             "image": "https://matthewmcbain.github.io/JsonData/images/tulip_garden.jpg",
-            "lat": 52.63,
+            "lat": 52.662,
             "lng": -2.223,
             "name": "Tulip Garden",
             "region": "europe"
