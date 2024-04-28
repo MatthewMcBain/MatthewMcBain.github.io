@@ -1,51 +1,93 @@
 [
     {
-        "rideName":"Spooks Ville",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
-        "rideDetail":"The sideshow freaks come alive after dark. The bearded lady weeps tears of blood, the contortionist twists into impossible shapes, and the strongman lifts invisible weights. Their eyes follow you as you navigate the dimly lit corridors.",
-        "rideAge":"1 year",
+        "attractionName":"Spooks Ville",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/spooks_ville.jpg",
+        "attractionDetail":"The sideshow freaks come alive after dark. The bearded lady weeps tears of blood, the contortionist twists into impossible shapes, and the strongman lifts invisible weights. Their eyes follow you as you navigate the dimly lit corridors.",
+        "attractionAge":"1 year",
         "minHeight":"130cm"
     },
     {
-        "rideName":"Rapido Racer",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/rapido_racer.jpg",
-        "rideDetail":"As you steer your bumper car, you'll dodge incoming attacks and aim for well-timed bumps. Laughter echoes as riders spin, reverse, and execute surprise maneuvers. Whether you're a cautious dodger or a fearless bumper, the dodgems promise a delightful ride for all ages.",
-        "rideAge":"3 years",
+        "attractionName":"Rapido Racer",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/rapido_racer.jpg",
+        "attractionDetail":"As you steer your bumper car, you'll dodge incoming attacks and aim for well-timed bumps. Laughter echoes as riders spin, reverse, and execute surprise maneuvers. Whether you're a cautious dodger or a fearless bumper, the dodgems promise a delightful ride for all ages.",
+        "attractionAge":"3 years",
         "minHeight":"No Limit"
     },
     {
-        "rideName":"The Roaring Loopster",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/the_roaring_loopster.jpg",
-        "rideDetail":"The Roaring Loopster defies gravity with not one, not two, but three exhilarating loops. As you hurtle through each inversion, your world turns upside down, and your screams blend with the wind.",
-        "rideAge":"2 years",
+        "attractionName":"The Roaring Loopster",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/the_roaring_loopster.jpg",
+        "attractionDetail":"The Roaring Loopster defies gravity with not one, not two, but three exhilarating loops. As you hurtle through each inversion, your world turns upside down, and your screams blend with the wind.",
+        "attractionAge":"2 years",
         "minHeight":"140cm"
     },
     {
-        "rideName":"Log Flume",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/log_flume.jpg",
-        "rideDetail":"Imagine a rustic journey through a forested mountain. The log flume twists, climbs, and then—splash! You plunge into cool waters, laughing as your log bobs like a buoy.",
-        "rideAge":"2 years",
+        "attractionName":"Log Flume",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/log_flume.jpg",
+        "attractionDetail":"Imagine a rustic journey through a forested mountain. The log flume twists, climbs, and then—splash! You plunge into cool waters, laughing as your log bobs like a buoy.",
+        "attractionAge":"2 years",
         "minHeight":"120cm"
     },
     {
-        "rideName":"Ride the Rapids",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/ride_the_rapids.jpg",
-        "rideDetail":"Experience the ultimate adrenaline rush as you take on choppy waters in the Wild River Rapids ride at Fantasy Island. The ride features swift currents, twists, and turns, making it an exciting water adventure.",
-        "rideAge":"3 years",
+        "attractionName":"Ride the Rapids",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/ride_the_rapids.jpg",
+        "attractionDetail":"Experience the ultimate adrenaline rush as you take on choppy waters in the Wild River Rapids ride at Fantasy Island. The ride features swift currents, twists, and turns, making it an exciting water adventure.",
+        "attractionAge":"3 years",
         "minHeight":"110cm"
     },
     {
-        "rideName":"The teacups",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
-        "rideDetail":"Hold on tight! The faster you spin the wheel, the wilder the ride becomes. Laughter bubbles up as you swirl, your friends and family spinning alongside you. The sun filters through the gaps in the teacup's delicate pattern, casting kaleidoscopic shadows on your face.",
-        "rideAge":"5 years",
+        "attractionName":"The teacups",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/the_teacups.jpg",
+        "attractionDetail":"Hold on tight! The faster you spin the wheel, the wilder the ride becomes. Laughter bubbles up as you swirl, your friends and family spinning alongside you. The sun filters through the gaps in the teacup's delicate pattern, casting kaleidoscopic shadows on your face.",
+        "attractionAge":"5 years",
         "minHeight":"90cm"
     },
     {
-        "rideName":"Carousel",
-        "ridePic":"https://matthewmcbain.github.io/JsonData/images/carousel.jpg",
-        "rideDetail":"By royal appointment, come and enjoy the most regal roundabout in the country—the grand Royal Carousel! Hop onto one of the royal horses or sit on your very own throne as you take the regalest turn around and round. If you're under 1.3 meters tall, you must ride with an adult (18+)",
-        "rideAge":"5 years",
+        "attractionName":"Carousel",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/carousel.jpg",
+        "attractionDetail":"By royal appointment, come and enjoy the most regal roundabout in the country—the grand Royal Carousel! Hop onto one of the royal horses or sit on your very own throne as you take the regalest turn around and round. If you're under 1.3 meters tall, you must ride with an adult (18+)",
+        "attractionAge":"5 years",
         "minHeight":"130cm"
+    },
+    {
+        "attractionName":"Human Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/human_garden.jpg",
+        "attractionDetail":"Human Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
+    },
+    {
+        "attractionName":"Japanese Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/japanese_garden.jpg",
+        "attractionDetail":"Japanese Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
+    },
+    {
+        "attractionName":"Nautical Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/nautical_garden.jpg",
+        "attractionDetail":"Nautical Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
+    },
+    {
+        "attractionName":"Spooky Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/spooky_garden.jpg",
+        "attractionDetail":"Spooky Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
+    },
+    {
+        "attractionName":"Tropical Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/tropical_garden.jpg",
+        "attractionDetail":"Tropical Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
+    },
+    {
+        "attractionName":"Tulip Garden",
+        "attractionPic":"https://matthewmcbain.github.io/JsonData/images/tulip_garden.jpg",
+        "attractionDetail":"Tulip Garden",
+        "attractionAge":"5 years",
+        "minHeight":"No Limit"
     }
 ]
