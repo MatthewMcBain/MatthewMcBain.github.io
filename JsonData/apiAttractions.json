@@ -51,42 +51,42 @@
     {
         "attractionName":"Human Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/human_garden.jpg",
-        "attractionDetail":"Human Garden",
+        "attractionDetail":"Faces emerge from the foliage—eyes crinkled with kindness, lips curved in camaraderie. These blossoms thrive on conversations, their petals unfurling when hearts meet.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     },
     {
         "attractionName":"Japanese Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/japanese_garden.jpg",
-        "attractionDetail":"Japanese Garden",
+        "attractionDetail":"These gardens are meticulously crafted, each stone and leaf placed with purpose. They evoke a sense of balance—a dance between earth and sky. Here, time slows, and worries dissolve.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     },
     {
         "attractionName":"Nautical Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/nautical_garden.jpg",
-        "attractionDetail":"Nautical Garden",
+        "attractionDetail":"The color palette mirrors the sea's moods—silvers, olive greens, and purples blend seamlessly. Imagine waves crashing, leaving behind frothy whites and sun-kissed blues. Coastal plants sway, their leaves catching sunlight like sails.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     },
     {
         "attractionName":"Spooky Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/spooky_garden.jpg",
-        "attractionDetail":"Spooky Garden",
+        "attractionDetail":"Step into the heart of this spooky garden, where the veil between realms grows thin. Here, the air is thick with mystery and whispers, and every rustling leaf seems to harbor secrets.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     },
     {
         "attractionName":"Tropical Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/tropical_garden.jpg",
-        "attractionDetail":"Tropical Garden",
+        "attractionDetail":"Step into the heart of this lush sanctuary—a tropical garden that beckons with whispers of distant rainforests. Here, the air is thick with humid warmth, and every leaf seems to pulse with life.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     },
     {
         "attractionName":"Tulip Garden",
         "attractionPic":"https://matthewmcbain.github.io/JsonData/images/tulip_garden.jpg",
-        "attractionDetail":"Tulip Garden",
+        "attractionDetail":"Amidst the morning dew, the tulip garden awakens—a veritable kaleidoscope of colors. Each petal unfurls like a delicate secret, revealing hues that defy mere words. Vibrant reds, sunset oranges, and sun-kissed yellows intermingle, creating a floral tapestry that dances with the breeze.",
         "attractionAge":"5 years",
         "minHeight":"No Limit"
     }
